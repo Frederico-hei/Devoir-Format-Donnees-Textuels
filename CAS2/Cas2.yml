@@ -1,0 +1,19 @@
+school : 
+  name : HEI
+  creation : 2021
+  domain : IT
+  nbStudents : 200
+
+  Students : 
+    - name : Rakoto
+      ref : STD23001
+      groupe : 
+        name : A1
+        year : 2023
+        level : L1
+    - name : Rabe
+      ref : STD23002
+      groupe : 
+        name : A2
+        year : 2023
+        level : L3
